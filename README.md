@@ -10,22 +10,22 @@
 
 ## Tabla de Contenidos
 
-- [Problema de Negocio](#-problema-de-negocio)
-- [Dataset](#-dataset)
-- [Stack Tecnológico](#️-stack-tecnológico)
-- [Proceso del Proyecto](#-proceso-del-proyecto-paso-a-paso)
-    - [Fase 1: Carga y Limpieza de Datos](#-fase-1-carga-y-limpieza-de-datos)
-    - [Fase 2: Análisis Exploratorio de Datos (EDA)](#-fase-2-análisis-exploratorio-de-datos-eda)
-    - [Fase 3: Modelo Dimensional (Kimball)](#-fase-3-modelo-dimensional-kimball)
-    - [Fase 4: Dashboard (Power BI)](#-fase-4-dashboard-power-bi)
-    - [Fase 5: Hallazgos Clave](#-fase-5-hallazgos-clave)
-    - [Fase 6: Recomendaciones de Negocio](#-fase-6-recomendaciones-de-negocio)
-- [Queries SQL Destacados](#-queries-sql-destacados)
-- [Medidas DAX](#-medidas-dax)
-- [Métricas del Proyecto](#-métricas-del-proyecto)
-- [Estructura del Repositorio](#-estructura-del-repositorio)
-- [Cómo Reproducir](#-cómo-reproducir-este-proyecto)
-- [Conclusiones](#-conclusiones)
+- [Problema de Negocio](#problema-de-negocio)
+- [Dataset](#dataset)
+- [Stack Tecnológico](#stack-tecnológico)
+- [Proceso del Proyecto](#proceso-del-proyecto-paso-a-paso)
+    - [Fase 1: Carga y Limpieza de Datos](#fase-1-carga-y-limpieza-de-datos)
+    - [Fase 2: Análisis Exploratorio de Datos (EDA)](#fase-2-análisis-exploratorio-de-datos-eda)
+    - [Fase 3: Modelo Dimensional (Kimball)](#fase-3-modelo-dimensional-kimball)
+    - [Fase 4: Dashboard (Power BI)](#fase-4-dashboard-power-bi)
+    - [Fase 5: Hallazgos Clave](#fase-5-hallazgos-clave)
+    - [Fase 6: Recomendaciones de Negocio](#fase-6-recomendaciones-de-negocio)
+- [Queries SQL Destacados](#queries-sql-destacados)
+- [Medidas DAX](#medidas-dax)
+- [Métricas del Proyecto](#métricas-del-proyecto)
+- [Estructura del Repositorio](#estructura-del-repositorio)
+- [Cómo Reproducir](#cómo-reproducir-este-proyecto)
+- [Conclusiones](#conclusiones)
 
 ---
 
