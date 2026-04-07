@@ -4,7 +4,7 @@
 
 > *"El análisis de las 99,441 órdenes del marketplace brasileño Olist reveló que el 6.77% llega con retraso respecto a la fecha estimada de entrega. Estos pedidos reciben en promedio 2 puntos menos de calificación en comparación a los entregados a tiempo. Esto convierte a la logística, y no al producto, en la principal causa de insatisfacción del cliente."*
 
-**[👉 Ver Dashboard Interactivo (Power BI Service)](https://app.powerbi.com/view?r=tu_codigo_aqui)**
+**[👉 Ver Dashboard Interactivo (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiZDcwNjAzZjQtZGQyOC00YmRiLWI0ODQtZmQwMzBkMzM3NTc4IiwidCI6IjQyNzQ2NWNlLWE4MzUtNDc5ZS05ZDBiLWVkZmJmYjhiYzU1OSIsImMiOjR9)**
 
 ---
 
